@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 📖 I am an undergraduate CS major at Northern Kentucky University.<br>🧠 My learning philosophy is:  (time + effort + persistence = demystification).<br>🔭 In my free time I'm exploring neural networks.<br>
 
 
