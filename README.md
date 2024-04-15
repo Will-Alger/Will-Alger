@@ -1,5 +1,5 @@
 # About Me:
-📖 I am an undergraduate CS major at Northern Kentucky University.<br>🧠 My learning philosophy is:  (time + effort + persistence = demystification).<br>
+📖 🧠 learning philosophy is:  (time + effort + persistence = demystification).<br>
 
 
 ## 🌐 Socials:
